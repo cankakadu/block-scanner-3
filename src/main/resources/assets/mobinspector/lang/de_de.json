@@ -1,0 +1,22 @@
+{
+  "key.category.mobinspector.main": "Mob Inspector",
+  "key.mobinspector.toggle": "HUD umschalten",
+  "key.mobinspector.settings": "Einstellungen öffnen",
+  "screen.mobinspector.title": "Mob Inspector Einstellungen",
+  "option.mobinspector.enabled": "HUD",
+  "option.mobinspector.target": "Ziel-Bereich",
+  "option.mobinspector.mobcount": "Mobs auf Block",
+  "option.mobinspector.breakdown": "Typ-Verteilung",
+  "option.mobinspector.blockdata": "Blockdaten",
+  "option.mobinspector.footprint": "Zählbereich",
+  "option.mobinspector.filter": "Mob-Filter",
+  "option.mobinspector.accent": "Akzent",
+  "option.mobinspector.anchor": "Position",
+  "option.mobinspector.animation": "Animation",
+  "option.mobinspector.scale": "Skalierung",
+  "option.mobinspector.opacity": "Hintergrund",
+  "option.mobinspector.offx": "Abstand X",
+  "option.mobinspector.offy": "Abstand Y",
+  "message.mobinspector.on": "Mob Inspector: AN",
+  "message.mobinspector.off": "Mob Inspector: AUS"
+}

@@ -1,0 +1,22 @@
+{
+  "key.category.mobinspector.main": "Mob Inspector",
+  "key.mobinspector.toggle": "Toggle HUD",
+  "key.mobinspector.settings": "Open Settings",
+  "screen.mobinspector.title": "Mob Inspector Settings",
+  "option.mobinspector.enabled": "HUD",
+  "option.mobinspector.target": "Target Section",
+  "option.mobinspector.mobcount": "Mobs on Block",
+  "option.mobinspector.breakdown": "Type Breakdown",
+  "option.mobinspector.blockdata": "Block Data",
+  "option.mobinspector.footprint": "Count Area",
+  "option.mobinspector.filter": "Mob Filter",
+  "option.mobinspector.accent": "Accent",
+  "option.mobinspector.anchor": "Position",
+  "option.mobinspector.animation": "Animation",
+  "option.mobinspector.scale": "Scale",
+  "option.mobinspector.opacity": "Background",
+  "option.mobinspector.offx": "Offset X",
+  "option.mobinspector.offy": "Offset Y",
+  "message.mobinspector.on": "Mob Inspector: ON",
+  "message.mobinspector.off": "Mob Inspector: OFF"
+}
